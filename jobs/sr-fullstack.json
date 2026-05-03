@@ -1,0 +1,24 @@
+{
+  "id": "sr-fullstack",
+  "title": "Senior Full-Stack Engineer",
+  "category": "engineering",
+  "categoryLabel": "Engineering",
+  "location": "Remote · USA / India",
+  "type": "Full-time",
+  "experience": "5+ years",
+  "summary": "Build production-grade web applications across the stack — React on the front, Node/Python on the back, deployed on modern cloud infrastructure.",
+  "responsibilities": [
+    "Design and ship features end-to-end across the stack",
+    "Collaborate with product and design on technical architecture",
+    "Write clean, well-tested, maintainable code",
+    "Mentor junior engineers and review pull requests",
+    "Participate in on-call rotation for critical systems"
+  ],
+  "requirements": [
+    "5+ years of professional software development experience",
+    "Strong proficiency with JavaScript/TypeScript, React, and Node.js",
+    "Experience with relational and document databases (PostgreSQL, MongoDB)",
+    "Hands-on experience with AWS, Azure, or GCP",
+    "Excellent written and verbal communication"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "frontend-eng",
+  "title": "Frontend Engineer",
+  "category": "engineering",
+  "categoryLabel": "Engineering",
+  "location": "Remote · India",
+  "type": "Full-time",
+  "experience": "3+ years",
+  "summary": "Build polished, performant user interfaces in React and Next.js — with a deep care for design fidelity and user experience.",
+  "responsibilities": [
+    "Implement UI features in React, Next.js, and TypeScript",
+    "Partner with designers to ship pixel-accurate, accessible interfaces",
+    "Optimize performance, bundle size, and Core Web Vitals",
+    "Write tests and contribute to component libraries",
+    "Pair with backend engineers on API contracts"
+  ],
+  "requirements": [
+    "3+ years of frontend engineering experience",
+    "Strong skills in React, TypeScript, and modern CSS",
+    "Eye for design and attention to detail",
+    "Familiarity with state management, testing, and accessibility",
+    "Bonus: animation libraries (Framer Motion, GSAP)"
+  ]
+}

@@ -1981,11 +1981,17 @@
   });
 
   jobsList.innerHTML = '<div class="jobs-empty">Loading openings…</div>';
-  fetch('jobs.json')
+  fetch('jobs/index.json')
     .then(r => {
-      if (!r.ok) throw new Error('Failed to load jobs');
+      if (!r.ok) throw new Error('Failed to load job index');
       return r.json();
     })
+    .then(ids => Promise.all(ids.map(id =>
+      fetch(`jobs/${id}.json`).then(r => {
+        if (!r.ok) throw new Error(`Failed to load job ${id}`);
+        return r.json();
+      })
+    )))
     .then(data => { JOBS = data; renderJobs(); })
     .catch(() => {
       jobsList.innerHTML = '<div class="jobs-empty">Unable to load openings right now. Please try again later.</div>';

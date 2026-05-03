@@ -1,0 +1,24 @@
+{
+  "id": "ai-engineer",
+  "title": "AI / Machine Learning Engineer",
+  "category": "ai",
+  "categoryLabel": "AI / ML",
+  "location": "Remote",
+  "type": "Full-time",
+  "experience": "3+ years",
+  "summary": "Design, build, and ship LLM-powered applications, RAG systems, and autonomous agents that solve real business problems.",
+  "responsibilities": [
+    "Build and deploy LLM applications, RAG pipelines, and agent systems",
+    "Design evaluation harnesses and observability for AI systems",
+    "Fine-tune models and optimize for cost, latency, and accuracy",
+    "Partner with clients to translate business needs into AI architecture",
+    "Stay current with rapidly evolving AI tooling and best practices"
+  ],
+  "requirements": [
+    "3+ years building production ML / AI systems",
+    "Hands-on with OpenAI, Anthropic, or open-weight model APIs",
+    "Strong Python skills; experience with PyTorch or TensorFlow a plus",
+    "Familiarity with vector databases and retrieval techniques",
+    "Comfort with ambiguity — research-into-production mindset"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "devops-engineer",
+  "title": "DevOps / Cloud Engineer",
+  "category": "engineering",
+  "categoryLabel": "Engineering",
+  "location": "Remote · USA",
+  "type": "Full-time",
+  "experience": "4+ years",
+  "summary": "Own the cloud infrastructure, CI/CD, and observability systems that power our software delivery for clients.",
+  "responsibilities": [
+    "Design and maintain scalable cloud infrastructure on AWS / Azure / GCP",
+    "Build CI/CD pipelines and infrastructure-as-code (Terraform, Pulumi)",
+    "Set up monitoring, logging, and alerting for production systems",
+    "Optimize cost, performance, and security across deployments",
+    "Document, automate, and improve developer experience"
+  ],
+  "requirements": [
+    "4+ years in DevOps, SRE, or platform engineering roles",
+    "Deep expertise in at least one major cloud provider",
+    "Kubernetes, Docker, and modern IaC tools",
+    "Scripting fluency in Python, Bash, or Go",
+    "Strong incident-response and troubleshooting skills"
+  ]
+}

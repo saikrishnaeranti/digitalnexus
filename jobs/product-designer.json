@@ -1,0 +1,24 @@
+{
+  "id": "product-designer",
+  "title": "Senior Product Designer",
+  "category": "design",
+  "categoryLabel": "Design",
+  "location": "Remote",
+  "type": "Full-time",
+  "experience": "5+ years",
+  "summary": "Lead product design across multiple client engagements — from research and IA to high-fidelity UI and design systems.",
+  "responsibilities": [
+    "Drive design from research and discovery through to handoff",
+    "Build and maintain design systems for client products",
+    "Collaborate closely with engineers throughout implementation",
+    "Run user research and usability testing",
+    "Mentor designers and elevate the team's craft"
+  ],
+  "requirements": [
+    "5+ years designing complex SaaS or enterprise software",
+    "A portfolio that shows clarity of thought and craft",
+    "Mastery of Figma; comfort with prototyping tools",
+    "Strong communication and stakeholder-management skills",
+    "Familiarity with AI-product design patterns a strong plus"
+  ]
+}
